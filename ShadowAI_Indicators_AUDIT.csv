@@ -1,0 +1,79 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,chatgpt.com,,Audit,Informational,Shadow AI - ChatGPT,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,chat.openai.com,,Audit,Informational,Shadow AI - ChatGPT (legacy domain),Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,claude.ai,,Audit,Informational,Shadow AI - Claude,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,gemini.google.com,,Audit,Informational,Shadow AI - Google Gemini,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,aistudio.google.com,,Audit,Informational,Shadow AI - Google AI Studio,Unapproved generative AI service (model playground).,,,UnwantedSoftware,,true
+DomainName,notebooklm.google.com,,Audit,Informational,Shadow AI - NotebookLM,Unapproved generative AI service (document analysis).,,,UnwantedSoftware,,true
+DomainName,perplexity.ai,,Audit,Informational,Shadow AI - Perplexity,Unapproved generative AI service (AI search).,,,UnwantedSoftware,,true
+DomainName,deepseek.com,,Audit,Informational,Shadow AI - DeepSeek,"Unapproved generative AI service (chat assistant, data stored outside UK/EU).",,,UnwantedSoftware,,true
+DomainName,chat.deepseek.com,,Audit,Informational,Shadow AI - DeepSeek Chat,"Unapproved generative AI service (chat assistant, data stored outside UK/EU).",,,UnwantedSoftware,,true
+DomainName,grok.com,,Audit,Informational,Shadow AI - Grok,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,chat.mistral.ai,,Audit,Informational,Shadow AI - Mistral Le Chat,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,meta.ai,,Audit,Informational,Shadow AI - Meta AI,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,poe.com,,Audit,Informational,Shadow AI - Poe,Unapproved generative AI service (multi-model chat).,,,UnwantedSoftware,,true
+DomainName,you.com,,Audit,Informational,Shadow AI - You.com,Unapproved generative AI service (AI search).,,,UnwantedSoftware,,true
+DomainName,pi.ai,,Audit,Informational,Shadow AI - Pi,Unapproved generative AI service (chat assistant).,,,UnwantedSoftware,,true
+DomainName,character.ai,,Audit,Informational,Shadow AI - Character.AI,Unapproved generative AI service (companion chat).,,,UnwantedSoftware,,true
+DomainName,chat.qwen.ai,,Audit,Informational,Shadow AI - Qwen Chat,"Unapproved generative AI service (chat assistant, data stored outside UK/EU).",,,UnwantedSoftware,,true
+DomainName,kimi.com,,Audit,Informational,Shadow AI - Kimi,"Unapproved generative AI service (chat assistant, data stored outside UK/EU).",,,UnwantedSoftware,,true
+DomainName,doubao.com,,Audit,Informational,Shadow AI - Doubao,"Unapproved generative AI service (chat assistant, data stored outside UK/EU).",,,UnwantedSoftware,,true
+DomainName,phind.com,,Audit,Informational,Shadow AI - Phind,Unapproved generative AI service (AI search for developers).,,,UnwantedSoftware,,true
+DomainName,lmarena.ai,,Audit,Informational,Shadow AI - LMArena,"Unapproved generative AI service (model comparison, prompts may be published).",,,UnwantedSoftware,,true
+DomainName,openrouter.ai,,Audit,Informational,Shadow AI - OpenRouter,Unapproved generative AI service (multi-model gateway).,,,UnwantedSoftware,,true
+DomainName,manus.im,,Audit,Informational,Shadow AI - Manus,Unapproved generative AI service (autonomous agent).,,,UnwantedSoftware,,true
+DomainName,genspark.ai,,Audit,Informational,Shadow AI - Genspark,Unapproved generative AI service (AI agent and search).,,,UnwantedSoftware,,true
+DomainName,monica.im,,Audit,Informational,Shadow AI - Monica,"Unapproved generative AI service (browser extension assistant, reads page content).",,,UnwantedSoftware,,true
+DomainName,sider.ai,,Audit,Informational,Shadow AI - Sider,"Unapproved generative AI service (browser extension assistant, reads page content).",,,UnwantedSoftware,,true
+DomainName,getmerlin.in,,Audit,Informational,Shadow AI - Merlin,"Unapproved generative AI service (browser extension assistant, reads page content).",,,UnwantedSoftware,,true
+DomainName,harpa.ai,,Audit,Informational,Shadow AI - HARPA AI,"Unapproved generative AI service (browser extension assistant, reads page content).",,,UnwantedSoftware,,true
+DomainName,maxai.me,,Audit,Informational,Shadow AI - MaxAI,"Unapproved generative AI service (browser extension assistant, reads page content).",,,UnwantedSoftware,,true
+DomainName,jasper.ai,,Audit,Informational,Shadow AI - Jasper,Unapproved generative AI service (writing assistant).,,,UnwantedSoftware,,true
+DomainName,copy.ai,,Audit,Informational,Shadow AI - Copy.ai,Unapproved generative AI service (writing assistant).,,,UnwantedSoftware,,true
+DomainName,writesonic.com,,Audit,Informational,Shadow AI - Writesonic,Unapproved generative AI service (writing assistant).,,,UnwantedSoftware,,true
+DomainName,rytr.me,,Audit,Informational,Shadow AI - Rytr,Unapproved generative AI service (writing assistant).,,,UnwantedSoftware,,true
+DomainName,quillbot.com,,Audit,Informational,Shadow AI - QuillBot,Unapproved generative AI service (paraphrasing and writing).,,,UnwantedSoftware,,true
+DomainName,wordtune.com,,Audit,Informational,Shadow AI - Wordtune,Unapproved generative AI service (writing assistant).,,,UnwantedSoftware,,true
+DomainName,chatpdf.com,,Audit,Informational,Shadow AI - ChatPDF,Unapproved generative AI service (document upload and chat).,,,UnwantedSoftware,,true
+DomainName,humata.ai,,Audit,Informational,Shadow AI - Humata,Unapproved generative AI service (document upload and chat).,,,UnwantedSoftware,,true
+DomainName,gamma.app,,Audit,Informational,Shadow AI - Gamma,Unapproved generative AI service (presentation generator).,,,UnwantedSoftware,,true
+DomainName,otter.ai,,Audit,Informational,Shadow AI - Otter.ai,Unapproved AI meeting notetaker (records and transcribes meetings).,,,UnwantedSoftware,,true
+DomainName,fireflies.ai,,Audit,Informational,Shadow AI - Fireflies.ai,Unapproved AI meeting notetaker (records and transcribes meetings).,,,UnwantedSoftware,,true
+DomainName,read.ai,,Audit,Informational,Shadow AI - Read AI,Unapproved AI meeting notetaker (records and transcribes meetings).,,,UnwantedSoftware,,true
+DomainName,tldv.io,,Audit,Informational,Shadow AI - tl;dv,Unapproved AI meeting notetaker (records and transcribes meetings).,,,UnwantedSoftware,,true
+DomainName,fathom.video,,Audit,Informational,Shadow AI - Fathom,Unapproved AI meeting notetaker (records and transcribes meetings).,,,UnwantedSoftware,,true
+DomainName,midjourney.com,,Audit,Informational,Shadow AI - Midjourney,Unapproved generative AI service (image generation).,,,UnwantedSoftware,,true
+DomainName,leonardo.ai,,Audit,Informational,Shadow AI - Leonardo.Ai,Unapproved generative AI service (image generation).,,,UnwantedSoftware,,true
+DomainName,ideogram.ai,,Audit,Informational,Shadow AI - Ideogram,Unapproved generative AI service (image generation).,,,UnwantedSoftware,,true
+DomainName,krea.ai,,Audit,Informational,Shadow AI - Krea,Unapproved generative AI service (image and video generation).,,,UnwantedSoftware,,true
+DomainName,runwayml.com,,Audit,Informational,Shadow AI - Runway,Unapproved generative AI service (video generation).,,,UnwantedSoftware,,true
+DomainName,pika.art,,Audit,Informational,Shadow AI - Pika,Unapproved generative AI service (video generation).,,,UnwantedSoftware,,true
+DomainName,sora.com,,Audit,Informational,Shadow AI - Sora,Unapproved generative AI service (video generation).,,,UnwantedSoftware,,true
+DomainName,heygen.com,,Audit,Informational,Shadow AI - HeyGen,Unapproved generative AI service (avatar video generation).,,,UnwantedSoftware,,true
+DomainName,synthesia.io,,Audit,Informational,Shadow AI - Synthesia,Unapproved generative AI service (avatar video generation).,,,UnwantedSoftware,,true
+DomainName,elevenlabs.io,,Audit,Informational,Shadow AI - ElevenLabs,Unapproved generative AI service (voice generation and cloning).,,,UnwantedSoftware,,true
+DomainName,suno.com,,Audit,Informational,Shadow AI - Suno,Unapproved generative AI service (music generation).,,,UnwantedSoftware,,true
+DomainName,udio.com,,Audit,Informational,Shadow AI - Udio,Unapproved generative AI service (music generation).,,,UnwantedSoftware,,true
+DomainName,cursor.com,,Audit,Informational,Shadow AI - Cursor,Unapproved generative AI service (AI code editor).,,,UnwantedSoftware,,true
+DomainName,windsurf.com,,Audit,Informational,Shadow AI - Windsurf,Unapproved generative AI service (AI code editor).,,,UnwantedSoftware,,true
+DomainName,codeium.com,,Audit,Informational,Shadow AI - Codeium,Unapproved generative AI service (AI code assistant).,,,UnwantedSoftware,,true
+DomainName,replit.com,,Audit,Informational,Shadow AI - Replit,Unapproved generative AI service (AI app builder).,,,UnwantedSoftware,,true
+DomainName,bolt.new,,Audit,Informational,Shadow AI - Bolt,Unapproved generative AI service (AI app builder).,,,UnwantedSoftware,,true
+DomainName,lovable.dev,,Audit,Informational,Shadow AI - Lovable,Unapproved generative AI service (AI app builder).,,,UnwantedSoftware,,true
+DomainName,v0.dev,,Audit,Informational,Shadow AI - v0,Unapproved generative AI service (AI app builder).,,,UnwantedSoftware,,true
+DomainName,blackbox.ai,,Audit,Informational,Shadow AI - Blackbox AI,Unapproved generative AI service (AI code assistant).,,,UnwantedSoftware,,true
+DomainName,api.openai.com,,Audit,Informational,Shadow AI API - OpenAI,"Direct API access to OpenAI from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.anthropic.com,,Audit,Informational,Shadow AI API - Anthropic,"Direct API access to Anthropic from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,generativelanguage.googleapis.com,,Audit,Informational,Shadow AI API - Google Gemini,"Direct API access to Google Gemini from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.deepseek.com,,Audit,Informational,Shadow AI API - DeepSeek,"Direct API access to DeepSeek from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.mistral.ai,,Audit,Informational,Shadow AI API - Mistral,"Direct API access to Mistral from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.x.ai,,Audit,Informational,Shadow AI API - xAI Grok,"Direct API access to xAI Grok from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.perplexity.ai,,Audit,Informational,Shadow AI API - Perplexity,"Direct API access to Perplexity from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.cohere.com,,Audit,Informational,Shadow AI API - Cohere,"Direct API access to Cohere from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.cohere.ai,,Audit,Informational,Shadow AI API - Cohere (legacy),"Direct API access to Cohere (legacy) from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.groq.com,,Audit,Informational,Shadow AI API - Groq,"Direct API access to Groq from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.together.xyz,,Audit,Informational,Shadow AI API - Together AI,"Direct API access to Together AI from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api-inference.huggingface.co,,Audit,Informational,Shadow AI API - Hugging Face Inference,"Direct API access to Hugging Face Inference from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.elevenlabs.io,,Audit,Informational,Shadow AI API - ElevenLabs,"Direct API access to ElevenLabs from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,api.moonshot.ai,,Audit,Informational,Shadow AI API - Moonshot Kimi,"Direct API access to Moonshot Kimi from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
+DomainName,dashscope-intl.aliyuncs.com,,Audit,Informational,Shadow AI API - Alibaba Qwen,"Direct API access to Alibaba Qwen from a device. Likely a script, plugin or app using an API key.",,,UnwantedSoftware,,true
