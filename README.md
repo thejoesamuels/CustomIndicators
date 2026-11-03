@@ -1,2 +1,2 @@
 # CustomIndicators
-Custom Indicator repo for Microsoft Defende
+Custom Indicator repo for Microsoft Defender
